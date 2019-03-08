@@ -32,10 +32,12 @@
     "webpack-dev-server": "^2.9.3"
   },
   "dependencies": {
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
     "bootstrap": "^3.3.7",
     "mint-ui": "^2.2.9",
     "npm-git-install": "^0.3.0",
     "vue": "^2.5.2",
+    "vue-resource": "^1.5.1",
     "vue-router": "^3.0.1"
   }
 }
